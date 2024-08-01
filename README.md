@@ -5,5 +5,7 @@ PCBs are groups of 4 lights and can be cut with scissors along the dotted line t
 Input is on left side of PCB; Output is on right side of PCB.
 
 Compatibility:
-ERCFv2 - Enraged Rabbit Carrot Feeder v2
-ERCT - Enraged Rabbit Cotton Tail (Filament Buffer) [STL for rear of ERCT included in GitHub Repository]
+
+-ERCFv2 - Enraged Rabbit Carrot Feeder v2
+
+-ERCT - Enraged Rabbit Cotton Tail (Filament Buffer) [STL for rear of ERCT included in GitHub Repository]
